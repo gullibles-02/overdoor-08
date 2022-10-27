@@ -1,0 +1,12 @@
+{
+  "name": "aVPGwyP6ddGK02TXsdS11TDoBTIWpEGBiwSgI3qJRRBmwWRqbq",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "หวยหุ้นวันนี้ หมายเหตุ กะ หวยหุ้นวันนี้ Settee Bet หวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องตามกฎหมาย",
+  "repository": "https://github.com/gullibles-02/overdoor-08",
+  "keywords": ["หวยหุ้นวันนี้","หวยหุ้นวันนี้ Settee Bet"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
