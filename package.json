@@ -1,10 +1,13 @@
 {
-  "name": "LN3iyAWWbM7IV50Y7Ffg0Ima5arZ25UsRMDv8Z3epDjWrRaJFO",
+  "name": "หวยฮานอยวีไอพีสด ที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.54",
   "description": "หวยฮานอยวีไอพีสด ตรวจผลการออกรางวัลหวยหุ้นเยอรมัน หวยฮานอยวีไอพีสด กับ หวยฮานอยวีไอพีสด ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง ผลหวยหุ้นเยอรมัน 130665 ตร",
   "repository": "https://github.com/gullibles-02/overdoor-08",
-  "keywords": ["หวยฮานอยวีไอพีสด","หวยฮานอยวีไอพีสด Thailotto"],
+  "keywords": [
+    "หวยฮานอยวีไอพีสด",
+    "หวยฮานอยวีไอพีสด Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
