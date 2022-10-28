@@ -1,10 +1,13 @@
 {
-  "name": "wwRazPn3SvYjsxJfuDD0dlWqkYqvQuFI97GptKXvxN2HVqX4lM",
+  "name": "หวยหุ้นนิเคอิเฮียพูน สรุปว่าอะไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.58",
   "description": "หวยหุ้นนิเคอิเฮียพูน ( แม้ หวยหุ้นนิเคอิเฮียพูน ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง กลับเลขเอาเองนะ )เลขเด็ด 3 ตัวเลขบนเลขที่ตีจาก ผังเลขเด็ดงวด 16 เ",
   "repository": "https://github.com/gullibles-02/overdoor-08",
-  "keywords": ["หวยหุ้นนิเคอิเฮียพูน","หวยหุ้นนิเคอิเฮียพูน Huay Happy"],
+  "keywords": [
+    "หวยหุ้นนิเคอิเฮียพูน",
+    "หวยหุ้นนิเคอิเฮียพูน Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
