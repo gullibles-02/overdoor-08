@@ -1,10 +1,13 @@
 {
-  "name": "QrT0mFfLm1Q3nei4q0TbzVuXLftF0BT5roIufU1pJXncna7Sgg",
+  "name": "หุ้นเกาหลีย้อนหลัง เลือกยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.64",
   "description": "หุ้นเกาหลีย้อนหลัง เกมเป่ายิงฉุบ ได้แก่ หุ้นเกาหลีย้อนหลัง Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด คือเกมทายใจของผู้เล่นอีกฝ่ายหนึ่ง ผู้เล่นทั้งสองฝ่า",
   "repository": "https://github.com/gullibles-02/overdoor-08",
-  "keywords": ["หุ้นเกาหลีย้อนหลัง","หุ้นเกาหลีย้อนหลัง Thailotto"],
+  "keywords": [
+    "หุ้นเกาหลีย้อนหลัง",
+    "หุ้นเกาหลีย้อนหลัง Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
